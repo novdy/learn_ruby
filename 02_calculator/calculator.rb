@@ -14,7 +14,7 @@ def sum(numbers)
 	return total
 end
 
-# This function goes beyond the scope of the problem. Multiples from arrays recursively
+# This function goes beyond the scope of the problem. Multiplies from arrays recursively
 # Example: multiply([2,10,[78,[102,13]],5], 15, [12,4,6])
 def multiply(*args)
 	total = 1
