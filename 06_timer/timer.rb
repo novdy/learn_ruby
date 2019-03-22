@@ -1,6 +1,5 @@
 class Timer
-	attr_reader :time_string
-	attr_accessor :seconds
+	attr_reader :seconds, :time_string
 
 	def initialize
 		@seconds = 0
